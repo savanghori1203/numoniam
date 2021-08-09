@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @numoniam
-- 👀 I’m interested in python,java,javascript,html,css,bash
-- 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Savan Ghori
+- 👀 I’m interested in programming language java,python,c++ and web technology javascript,html,css,bash
+- 🌱 I’m currently learning java and python
+- 💞️ I’m looking to collaborate on java project
 
 
 <!---
