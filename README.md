@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Savan Ghori
 - 👀 I’m interested in programming language java,python,c++ and web technology javascript,html,css,bash
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on java project
+- 🌱 I’m currently learning java and web Technology
+
 
 
 <!---
