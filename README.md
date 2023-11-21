@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Savan Ghori
-- 👀 I’m interested in programming language java,python,c++ and web technology javascript,html,css,bash
+- 👀 I’m interested in programming language java and web technology javascript,Node.js,Express
 - 🌱 I’m currently Workinging as backend developer 
 
 
